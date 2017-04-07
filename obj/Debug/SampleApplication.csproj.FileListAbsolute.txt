@@ -1,0 +1,4 @@
+E:\Mansi\Project\SampleApplication\SampleApplication\bin\SampleApplication.dll
+E:\Mansi\Project\SampleApplication\SampleApplication\bin\SampleApplication.pdb
+E:\Mansi\Project\SampleApplication\SampleApplication\obj\Debug\SampleApplication.dll
+E:\Mansi\Project\SampleApplication\SampleApplication\obj\Debug\SampleApplication.pdb
